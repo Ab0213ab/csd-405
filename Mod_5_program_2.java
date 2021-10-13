@@ -100,7 +100,3 @@ public class Mod_5_program_2 {
        
     }
 }
-
-
-
-
